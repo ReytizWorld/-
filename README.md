@@ -1,6 +1,6 @@
 ﻿## Ответы@Лайв+
 
-##КОД СКАЧИВАТЬ ТОЛЬКО ПО ССЫЛКЕ, В РЕПОЗИЦИИ ОН СТАРЫЙ. [СКАЧАТЬ](https://github.com/ReytizWorld/-/releases/download/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B%40%D0%BB%D0%B0%D0%B9%D0%B2/--main.zip)
+## КОД СКАЧИВАТЬ ТОЛЬКО ПО ССЫЛКЕ, В РЕПОЗИЦИИ ОН СТАРЫЙ. [СКАЧАТЬ](https://github.com/ReytizWorld/-/releases/download/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B%40%D0%BB%D0%B0%D0%B9%D0%B2/--main.zip)
 
 ### Установка в Google Chrome
  
