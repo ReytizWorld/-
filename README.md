@@ -1,12 +1,12 @@
 ﻿## Ответы@Лайв+
 
-## КОД СКАЧИВАТЬ ТОЛЬКО ПО ССЫЛКЕ, В РЕПОЗИЦИИ ОН СТАРЫЙ. [СКАЧАТЬ](https://github.com/ReytizWorld/-/releases/download/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B%40%D0%BB%D0%B0%D0%B9%D0%B2/--main.zip)
+## КОД СКАЧИВАТЬ ТОЛЬКО ПО ССЫЛКЕ, В РЕПОЗИЦИИ ОН СТАРЫЙ. [СКАЧАТЬ](https://github.com/ReytizWorld/-/releases/download/%D1%84%D0%B8%D0%BA%D1%81/--main.zip)
 
 ### Установка в Google Chrome
  
 (и прочие браузеры на основе Chromium)
  
-0. Скачать [архив с кодом](https://github.com/ReytizWorld/-/releases/download/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B%40%D0%BB%D0%B0%D0%B9%D0%B2/--main.zip) и распаковать его.
+0. Скачать [архив с кодом](https://github.com/ReytizWorld/-/releases/download/%D1%84%D0%B8%D0%BA%D1%81/--main.zip) и распаковать его.
 1. Открыть страницу [chrome://extensions](chrome://extensions)
 2. Справа-вверху включить "Режим разработчика".
 3. Нажать "Загрузить распакованное расширение".
@@ -20,7 +20,7 @@
 
 Способ установки с GitHub:
  
-0. Скачать [архив с кодом](https://github.com/ReytizWorld/-/releases/download/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B%40%D0%BB%D0%B0%D0%B9%D0%B2/--main.zip) и распаковать его.
+0. Скачать [архив с кодом](https://github.com/ReytizWorld/-/releases/download/%D1%84%D0%B8%D0%BA%D1%81/--main.zip) и распаковать его.
 1. Открыть страницу [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 2. Нажать "Загрузить временное дополнение...".
 3. Выбрать файл manifest.json, находящийся в папке OtvetMailRuPlus-main.
@@ -37,6 +37,8 @@
 3. Просмотр скрытого содержимого — в уведомлениях
 
 4. Поддержка всех доменов — otvet.life, otvet.live, live-otvet.online, IP-адреса
+
+5. Удаление лишней панели
  
 ### Безопасность
  
